@@ -1,0 +1,51 @@
+// furry code 
+const ffmpeg = require("fluent-ffmpeg")
+const fs = require("fs")
+const { nextTick } = require("process")
+const random = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min
+var amount = 10
+var completed = 0
+var starttime = Date.now()
+for (let i = 0; i < amount; i++) {
+  ffmpeg('1.mov').fps(random(1,60))
+    .audioCodec('vorbis')
+    .size(`${random(50,300)}x${random(50,300)}`)
+    .on('error', function(err) {
+      console.log('An error occurred: ' + err.message);
+    })
+    .on('end', function() {
+      completed = completed + 1
+      if (completed == amount){
+        var endtime = Date.now()
+        console.log("operation completed in " + ((endtime - starttime)/1000) + " seconds!")// takes endtime away from start time and divides by 1000 to get seconds
+        var e = 0
+        for (let i = 0; i < (amount -1); i++) {
+
+          ffmpeg(`output${i}.webm`)
+            .input(`output${i}.webm`)
+            .fps(60)
+          .on('error', function(err) {
+               console.log('An error occurred: ' + err.message);
+          })
+          .on('end', function() {
+             console.log('Merging finished !');
+          })
+          .mergeToFile(`output${i+1}.webm`, '/test');
+          
+         }
+
+
+        
+
+
+
+
+
+      }
+    })
+    .save(`output${i}.webm`)
+}
+console.log("waiting for completion")
+
+real shit
+https://github.com/OIRNOIR/WebM-Maker-Thing-Idk/blob/main/wackywebm.js
