@@ -10,10 +10,6 @@ body {
     width:100%;
 }   
 </style>
-<script>
-document.getElementById('audio').play();
-</script>
-
 <meta charset="UTF-8">
 <meta property="og:site_name" content="NihonioCloud">
 <meta property="og:url" content="cloud-nihonio-uploads.github.io/">
@@ -29,9 +25,8 @@ document.getElementById('audio').play();
 <p style="color : #808080"><br>SUPER LOUD M0AN(small resolution): https://nihonio-cloud.github.io/videos/luffy.html<br></p>
 <p style="color : #808080"><br>fake dwc script leak: https://nihonio-cloud.github.io/videos/dwc-leak.html<br></p>
 
-<p style="color : #FFFFFF"><a href="https://discord.gg/6QnsKddS89">Discord Server</a></p>
-<audio src="https://raw.githubusercontent.com/cloud-nihonio-uploads/media/main/ps2.mp3">
-<p>If you are reading this, it is because your browser does not support the audio element.</p>
+<audio autoplay id="playAudio">
+    <source src="https://raw.githubusercontent.com/cloud-nihonio-uploads/media/main/ps2.mp3">
 </audio>
 <body>
 </html>
