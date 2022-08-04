@@ -13,6 +13,6 @@ color: #013220;
 
 .fade-in-text {
   font-family : Arial;
-  font-size : 150px;
-  animation : fadeIn 5s;
+  font-size : 20px;
+  animation: fadeIn 5s;
 }
