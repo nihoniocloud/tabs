@@ -30,10 +30,8 @@ color: grey;
 border: none;
 border-radius: 10px;
 text-align: center;
-font-size: 40px;
+font-size: 25px;
 transition-duration: 0.4s;
-height: 50;
-width: 50;
 }
 
 .button:hover {
