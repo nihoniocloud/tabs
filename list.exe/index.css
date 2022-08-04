@@ -8,5 +8,11 @@ body {
   width:100%;
 }
 p{
-color: #013220; font-family : Impact; font-size : large;
+color: #013220;
+}
+
+.fade-in-text {
+  font-family : Arial;
+  font-size : 150px;
+  animation : fadeIn 5s;
 }
