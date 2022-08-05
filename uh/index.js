@@ -1,8 +1,8 @@
-const elem = document.getElementById("elem"),
-select = document.getElementById("select");
+const select = document.getElementById("select"),
+elem = document.getElementById("elem");
 
-elem.addEventListener("click", function (e) {
-  if (select) {
-    select.click();
+select.addEventListener("click", function (e) {
+  if (elem) {
+    elem.click();
   }
 }, false);
