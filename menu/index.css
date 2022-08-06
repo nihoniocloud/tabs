@@ -61,11 +61,13 @@ color: white;
 }
 
 .server {
-display: inline-block
-position: center;
+display: inline-block;
+vertical-align: middle;
 }
 
 .txt {
-display: inline-block
-text-align: center;
+display: inline-block;
+font-size: 25px;
+font-family: Impact;
+vertical-align: middle;
 }
