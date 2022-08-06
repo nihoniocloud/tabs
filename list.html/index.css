@@ -33,8 +33,9 @@ text-align: center;
 font-family: Impact;
 font-size: 50px;
 transition-duration: 0.1s;
-padding: 50px 50px;
+padding: 5px 200px;
 display: inline-block;
+animation: fadeIn 5s;
 }
 
 .button:hover {
