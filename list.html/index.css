@@ -38,12 +38,13 @@ animation: fadeIn 5s;
 }
 
 .circular_image {
-  border-radius: 50px;
+  border-radius : 50px;
   display: inline-block;
 }
 
 .text {
   display: inline-block;
-  font-size: 50px;
+  font-size: 40px;
   font-family: Impact;
+  color: white;
 }
