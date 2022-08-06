@@ -51,4 +51,5 @@ animation: fadeIn 5s;
 .text {
   font-size: 50px;
   font-family: Impact;
+  align-items: flex-start;
 }
