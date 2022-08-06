@@ -25,12 +25,10 @@ border: none;
 border-radius: 10px;
 text-align: center;
 font-family: Impact;
-font-size: 20px;
-height:30px;
-width: 120px;
+font-size: 35px;
+height:60px;
+width: 60px;
 transition-duration: 0.1s;
-padding: 5px 200px;
-display: inline-block;
 animation: fadeIn 5s;
 }
 
