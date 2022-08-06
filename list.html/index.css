@@ -3,6 +3,7 @@ body {
 }
 p{
 color: white;
+font-size: 25px;
 }
 
 @keyframes fadeIn {
@@ -12,7 +13,6 @@ color: white;
 
 .fade-in-text {
   font-family : Impact;
-  font-size : 30px;
   animation : fadeIn 5s;
 }
 
@@ -25,9 +25,11 @@ border: none;
 border-radius: 10px;
 text-align: center;
 font-family: Impact;
-font-size: 50px;
+font-size: 20px;
+height:30px;
+width: 120px;
 transition-duration: 0.1s;
-padding: 5px 100px;
+padding: 5px 200px;
 display: inline-block;
 animation: fadeIn 5s;
 }
