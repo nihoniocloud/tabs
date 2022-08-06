@@ -37,6 +37,6 @@ animation: fadeIn 5s;
   color: grey;
 }
 
-pfp {
+.circular-image {
   border-radius: 50px;
 }
