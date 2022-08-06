@@ -13,7 +13,7 @@ font-size: 25px;
 
 .fade-in-text {
   font-family : Impact;
-  animation : fadeIn 5s;
+  animation : fadeIn 2s;
 }
 
 .button {
@@ -25,11 +25,11 @@ border: none;
 border-radius: 10px;
 text-align: center;
 font-family: Impact;
-font-size: 30px;
-height:40px;
+font-size: 25px;
+height:50px;
 width: 1000px;
-transition-duration: 0.1s;
-animation: fadeIn 5s;
+transition-duration: 0.2s;
+animation: fadeIn 2s;
 }
 
 .button:hover {
@@ -38,13 +38,15 @@ animation: fadeIn 5s;
 }
 
 .circular_image {
-  border-radius : 50px;
   display: inline-block;
+  animation: fadeIn 2s;
 }
 
 .text {
   display: inline-block;
-  font-size: 40px;
+  font-size: 35px;
   font-family: Impact;
   color: white;
+  vertical-align: middle;
+  animation: fadeIn 2s;
 }
