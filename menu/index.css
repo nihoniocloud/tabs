@@ -59,16 +59,3 @@ font-size: 20px;
 font-family: Impact;
 color: white;
 }
-
-.server {
-display: inline-block;
-bottom: 50px;
-}
-
-.txt {
-display: inline-block;
-font-size: 40px;
-font-family: Impact;
-color: white;
-top: 50px;
-}
