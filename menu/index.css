@@ -20,7 +20,8 @@ font-size: 15px;
 }
 
 .button {
-position:center;
+position:absolute;
+right:100px;
 background-color: #5865F2;
 color: white;
 border: none;
@@ -28,7 +29,7 @@ border-radius: 5px;
 text-align: center;
 font-family: Impact;
 font-size: 14px;
-height: 30px;
+height: 40px;
 width: 300px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
