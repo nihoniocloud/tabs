@@ -25,9 +25,9 @@ border: none;
 border-radius: 10px;
 text-align: center;
 font-family: Impact;
-font-size: 35px;
-height:90px;
-width: 1000px;
+font-size: 30px;
+height:50px;
+width: 980px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
 }
