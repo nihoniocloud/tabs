@@ -37,19 +37,6 @@ animation: fadeIn 5s;
   color: grey;
 }
 
-.container {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-}
-
 .circular_image {
   border-radius: 50px;
-  flex-basis: 40%;
-}
-
-.text {
-  font-size: 50px;
-  font-family: Impact;
-  align-items: flex-start;
 }
