@@ -26,9 +26,9 @@ border: none;
 border-radius: 10px;
 text-align: center;
 font-family: Impact;
-font-size: 10px;
+font-size: 12px;
 height: 30px;
-width: 150;
+width: 200px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
 }
@@ -36,7 +36,7 @@ animation: fadeIn 2s;
 .button:hover {
   background-color: #333333;
   color: grey;
-  font-size: 11px;
+  font-size: 13px;
 }
 
 .circular_image {
