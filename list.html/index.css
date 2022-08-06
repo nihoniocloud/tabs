@@ -36,3 +36,7 @@ animation: fadeIn 5s;
   background-color: #333333;
   color: grey;
 }
+
+img {
+  border-radius: 50px;
+}
