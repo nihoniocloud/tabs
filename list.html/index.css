@@ -39,8 +39,8 @@ animation: fadeIn 5s;
 
 .container {
   display: flex;
-  align-items: center;
-  justify-content: center
+  align-items: flex-start;
+  justify-content: flex-start;
 }
 
 .image {
@@ -50,6 +50,5 @@ animation: fadeIn 5s;
 
 .text {
   font-size: 35px;
-  padding-left: 20px;
   font-family: Impact;
 }
