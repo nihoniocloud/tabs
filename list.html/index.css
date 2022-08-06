@@ -2,8 +2,9 @@ body {
   background-color: #28282B;
 }
 p{
-color: white;
-font-size: 25px;
+font-family: Impact;
+color: grey;
+font-size: 15px;
 }
 
 @keyframes fadeIn {
@@ -53,7 +54,7 @@ animation: fadeIn 2s;
 }
 
 h1 {
-font-size: 50px;
-font-family: Roboto;
-color: grey;
+font-size: 25px;
+font-family: Impact;
+color: white;
 }
