@@ -40,6 +40,7 @@ animation: fadeIn 2s;
 .circular_image {
   display: inline-block;
   animation: fadeIn 2s;
+  vertical-align: middle;
 }
 
 .text {
