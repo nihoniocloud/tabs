@@ -4,7 +4,7 @@ body {
   display: block;
 }
 p{
-font-family: Impact;
+font-family: Cambria;
 color: grey;
 font-size: 10px;
 }
@@ -26,8 +26,8 @@ color: white;
 border: none;
 border-radius: 5px;
 text-align: center;
-font-family: Impact;
-font-size: 14px;
+font-family: Monaco;
+font-size: 15px;
 height: 30px;
 width: 400px;
 transition-duration: 0.2s;
@@ -48,7 +48,7 @@ animation: fadeIn 2s;
 .text {
   display: inline-block;
   font-size: 60px;
-  font-family: Impact;
+  font-family: Monaco;
   color: white;
   vertical-align: middle;
   animation: fadeIn 2s;
@@ -56,6 +56,6 @@ animation: fadeIn 2s;
 
 h1 {
 font-size: 17px;
-font-family: Impact;
+font-family: Monaco;
 color: white;
 }
