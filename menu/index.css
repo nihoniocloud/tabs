@@ -25,8 +25,8 @@ border: none;
 border-radius: 10px;
 text-align: center;
 font-family: Impact;
-font-size: 20px;
-padding: 10px 10px;
+font-size: 10px;
+padding: 20px 20px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
 }
