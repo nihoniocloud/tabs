@@ -5,9 +5,6 @@ p{
 color: white;
 font-size: 25px;
 text-align: center;
-display: inline-flex;
-padding: 5px;
-background-color: #000000;
 }
 
 @keyframes fadeIn {
