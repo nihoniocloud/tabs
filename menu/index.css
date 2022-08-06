@@ -1,6 +1,7 @@
 body {
   background-color: #28282B;
-  position: absolute;
+  position: fixed;
+  display: block;
 }
 p{
 font-family: Impact;
