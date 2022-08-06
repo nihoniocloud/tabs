@@ -2,7 +2,7 @@ body {
   background-color: #333333;
 }
 p{
-color: #013220;
+color: grey;
 }
 
 @keyframes fadeIn {
@@ -19,7 +19,7 @@ color: #013220;
 .button {
 position:center;
 top:50%;
-background-color: #00FF00;
+background-color: #999999;
 color: grey;
 border: none;
 border-radius: 10px;
@@ -27,7 +27,7 @@ text-align: center;
 font-family: Impact;
 font-size: 30px;
 transition-duration: 0.1s;
-padding: 5px 200px;
+padding: 5px 150px;
 display: inline-block;
 animation: fadeIn 5s;
 }
