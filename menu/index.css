@@ -63,11 +63,13 @@ color: white;
 .server {
 display: inline-block;
 vertical-align: middle;
+bottom: 50px;
 }
 
 .txt {
 display: inline-block;
-font-size: 50px;
+font-size: 40px;
 font-family: Impact;
 vertical-align: middle;
+color: white;
 }
