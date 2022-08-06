@@ -1,6 +1,6 @@
 body {
   background-color: #28282B;
-  position: fixed;
+  position: absolute;
   display: block;
 }
 p{
