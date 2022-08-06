@@ -43,13 +43,12 @@ animation: fadeIn 5s;
   justify-content: flex-start;
 }
 
-.image {
+.circular_image {
   border-radius: 50px;
   flex-basis: 40%;
 }
 
 .text {
-  font-size: 35px;
+  font-size: 50px;
   font-family: Impact;
-  text-align: left;
 }
