@@ -26,17 +26,17 @@ border: none;
 border-radius: 10px;
 text-align: center;
 font-family: Impact;
-font-size: 12px;
+font-size: 14px;
 height: 30px;
-width: 200px;
+width: 210px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
 }
 
 .button:hover {
-  background-color: #333333;
-  color: grey;
-  font-size: 13px;
+  background-color: #5865F2
+  color: white;
+  font-size: 15px;
 }
 
 .circular_image {
