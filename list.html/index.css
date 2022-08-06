@@ -1,5 +1,5 @@
 body {
-  background-color: #333333;
+  background-color: #555555;
 }
 p{
 color: grey;
@@ -11,23 +11,23 @@ color: grey;
 }
 
 .fade-in-text {
-  font-family : Arial;
-  font-size : 35px;
+  font-family : Impact;
+  font-size : 30px;
   animation : fadeIn 5s;
 }
 
 .button {
 position:center;
 top:50%;
-background-color: #999999;
+background-color: #333333;
 color: grey;
 border: none;
 border-radius: 10px;
 text-align: center;
 font-family: Impact;
-font-size: 30px;
+font-size: 50px;
 transition-duration: 0.1s;
-padding: 5px 150px;
+padding: 5px 100px;
 display: inline-block;
 animation: fadeIn 5s;
 }
