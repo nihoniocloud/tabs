@@ -21,23 +21,22 @@ font-size: 15px;
 
 .button {
 position:center;
-background-color: grey;
+background-color: #5865F2;
 color: white;
 border: none;
-border-radius: 10px;
+border-radius: 5px;
 text-align: center;
 font-family: Impact;
 font-size: 14px;
 height: 30px;
-width: 210px;
+width: 350px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
 }
 
 .button:hover {
-  background-color: #5865F2;
+  background-color: white;
   color: white;
-  font-size: 15px;
 }
 
 .circular_image {
