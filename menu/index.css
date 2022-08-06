@@ -35,7 +35,7 @@ animation: fadeIn 2s;
 }
 
 .button:hover {
-  background-color: #5865F2
+  background-color: #5865F2;
   color: white;
   font-size: 15px;
 }
