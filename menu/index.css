@@ -1,6 +1,7 @@
 body {
   background-color: #28282B;
   display: block;
+  position: absolute;
 }
 p{
 font-family: "Arial";
