@@ -60,9 +60,28 @@ text-align: center;
 }
 
 h1 {
-font-size: 20px;
+font-size: 30px;
 font-family: "Arial";
 color: white;
 display: block;
+animation: fadeIn 2s;
+}
+
+.border2 {
+border-width: 3px;
+border-style: solid;
+border-radius: 10px;
+border-color: #555555;
+background-color: #333333;
+padding: 2px 2px;
+display: block;
+animation: fadeIn 2s;
+text-align: center;
+}
+
+h3 {
+font-size: 30px;
+font-family: "Arial";
+color: white;
 animation: fadeIn 2s;
 }
