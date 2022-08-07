@@ -25,9 +25,9 @@ color: white;
 border: none;
 border-radius: 5px;
 text-align: center;
-font-family: "Arial Bold";
+font-family: "Arial";
 font-size: 12px;
-height: 35px;
+height: 30px;
 width: 150px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
@@ -47,7 +47,7 @@ animation: fadeIn 2s;
 .text {
   display: inline-block;
   font-size: 120px;
-  font-family: "Arial Bold";
+  font-family: "Arial";
   color: white;
   vertical-align: middle;
   animation: fadeIn 2s;
@@ -55,6 +55,6 @@ animation: fadeIn 2s;
 
 h1 {
 font-size: 15px;
-font-family: "Arial Bold";
+font-family: "Arial";
 color: white;
 }
