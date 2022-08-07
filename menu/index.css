@@ -61,7 +61,8 @@ border-width: 2px;
 border-style: solid;
 border-radius: 10px;
 border-color: #333333;
-margin: 22px 200px;
+padding: 22px 200px;
+padding-left: 50%;
 }
 
 h1 {
