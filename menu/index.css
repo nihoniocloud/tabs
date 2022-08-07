@@ -42,12 +42,9 @@ display: inline-block;
 }
 
 .text {
-  display: inline-block;
   font-size: 25px;
   font-family: "Arial Bold";
   color: white;
-  vertical-align: middle;
-  text-align: center;
 }
 
 .border {
@@ -56,9 +53,10 @@ border-style: solid;
 border-radius: 10px;
 border-color: #333333;
 background-color: #555555;
-padding: 22px 200px;
+padding: 15px 100px;
 display: block;
 animation: fadeIn 2s;
+text-align: center;
 }
 
 h1 {
