@@ -20,7 +20,6 @@ font-size: 10px;
 }
 
 .button {
-right:100px;
 background-color: #5865F2;
 color: white;
 border: none;
@@ -28,8 +27,8 @@ border-radius: 5px;
 text-align: center;
 font-family: "Arial Bold";
 font-size: 12px;
-height: 30px;
-width: 400px;
+height: 35px;
+width: 150px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
 }
@@ -47,7 +46,7 @@ animation: fadeIn 2s;
 
 .text {
   display: inline-block;
-  font-size: 90px;
+  font-size: 120px;
   font-family: "Arial Bold";
   color: white;
   vertical-align: middle;
@@ -55,7 +54,7 @@ animation: fadeIn 2s;
 }
 
 h1 {
-font-size: 17px;
+font-size: 15px;
 font-family: "Arial Bold";
 color: white;
 }
