@@ -33,7 +33,7 @@ height: 50px;
 width: 980px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
-display: block;
+display: inline-block;
 }
 
 .button:hover {
