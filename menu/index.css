@@ -103,6 +103,5 @@ font-size: 25px;
 font-family: "Arial";
 color: white;
 animation: fadeIn 2s;
-display: inline-block;
-vertical-align: middle;
+display: block;
 }
