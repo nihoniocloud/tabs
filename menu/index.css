@@ -42,7 +42,7 @@ display: inline-block;
 }
 
 .circular_image {
-  display: inline-block;
+  display: block;
   animation: fadeIn 2s;
   vertical-align: middle;
 }
@@ -61,7 +61,7 @@ border-width: 2px;
 border-style: solid;
 border-radius: 10px;
 border-color: #333333;
-padding:23px 100px;
+padding:21px 100px;
 display: block;
 }
 
