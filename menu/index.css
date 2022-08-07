@@ -45,11 +45,6 @@ display: inline-block;
   display: inline-block;
   animation: fadeIn 2s;
   vertical-align: middle;
-  border-width: 2px;
-  border-right-width: 40px;
-  border-style: solid;
-  border-radius: 5px;
-  border-color: grey;
 }
 
 .text {
@@ -60,7 +55,16 @@ display: inline-block;
   vertical-align: middle;
   animation: fadeIn 2s;
 }
- 
+
+.border {
+border-width: 2px;
+border-style: solid;
+border-radius: 5px;
+border-color: grey;
+padding:38.5px;
+text-align: center;
+}
+
 h1 {
 font-size: 20px;
 font-family: "Arial";
