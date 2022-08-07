@@ -42,7 +42,7 @@ display: inline-block;
 }
 
 .text {
-  font-size: 15vw;
+  font-size: 15px;
   font-family: "Arial";
   color: white;
 }
@@ -60,7 +60,7 @@ text-align: center;
 }
 
 h1 {
-font-size: 30vw;
+font-size: 30px;
 font-family: "Arial";
 color: white;
 display: block;
@@ -80,7 +80,7 @@ text-align: center;
 }
 
 h3 {
-font-size: 30vw;
+font-size: 30px;
 font-family: "Arial";
 color: white;
 animation: fadeIn 2s;
@@ -99,11 +99,9 @@ text-align: center;
 }
 
 h4 {
-font-size: 25vw;
+font-size: 30px;
 font-family: "Arial";
 color: white;
 animation: fadeIn 2s;
 display: block;
-z-index: 100;
-top: 30px;
 }
