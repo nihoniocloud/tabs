@@ -105,8 +105,7 @@ color: white;
 animation: fadeIn 2s;
 display: block;
 z-index: 100;
-position: absolute;
-top: 20px;
+top: 30px;
 }
 
 img {
