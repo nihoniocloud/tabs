@@ -107,3 +107,23 @@ display: block;
 z-index: 100;
 top: 30px;
 }
+
+.button1 {
+background-color: #23272a;
+color: white;
+border: none;
+border-radius: 5px;
+text-align: center;
+font-family: "Arial";
+font-size: 20px;
+height: 40px;
+width: 980px;
+transition-duration: 0.2s;
+animation: fadeIn 2s;
+display: inline-block;
+}
+
+.button:hover {
+  background-color: #555555;
+  color: white;
+}
