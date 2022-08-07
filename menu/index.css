@@ -44,10 +44,9 @@ display: inline-block;
 .text {
   display: inline-block;
   font-size: 120px;
-  font-family: "Arial";
+  font-family: "Arial Bold";
   color: white;
   vertical-align: middle;
-  animation: fadeIn 2s;
   text-align: center;
 }
 
@@ -59,6 +58,7 @@ border-color: #333333;
 background-color: #555555;
 padding: 22px 200px;
 display: block;
+animation: fadeIn 2s;
 }
 
 h1 {
