@@ -54,7 +54,7 @@ border-radius: 10px;
 border-color: #2E2E2E;
 background-color: #171717;
 padding: 2px 2px;
-display: block;
+display: inline-block;
 animation: fadeIn 2s;
 text-align: center;
 }
