@@ -1,12 +1,12 @@
 body {
   background-color: #28282B;
   position: absolute;
-  display: inline-block;
+  display: block;
 }
 p{
 font-family: "Arial";
 color: grey;
-font-size: 15px;
+font-size: 17px;
 display: inline-block;
 }
 
