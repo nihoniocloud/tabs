@@ -6,7 +6,7 @@ body {
 p{
 font-family: "Arial";
 color: grey;
-font-size: 17px;
+font-size: 10vw;
 display: inline-block;
 }
 
@@ -42,7 +42,7 @@ display: inline-block;
 }
 
 .text {
-  font-size: 15px;
+  font-size: 15vw;
   font-family: "Arial";
   color: white;
 }
@@ -60,7 +60,7 @@ text-align: center;
 }
 
 h1 {
-font-size: 30px;
+font-size: 30vw;
 font-family: "Arial";
 color: white;
 display: block;
@@ -80,7 +80,7 @@ text-align: center;
 }
 
 h3 {
-font-size: 30px;
+font-size: 30vw;
 font-family: "Arial";
 color: white;
 animation: fadeIn 2s;
@@ -99,7 +99,7 @@ text-align: center;
 }
 
 h4 {
-font-size: 25px;
+font-size: 25vw;
 font-family: "Arial";
 color: white;
 animation: fadeIn 2s;
