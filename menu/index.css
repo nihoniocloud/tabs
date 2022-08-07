@@ -107,11 +107,3 @@ display: block;
 z-index: 100;
 top: 30px;
 }
-
-img {
-left: 0;
-top: 0;
-display: block;
-margin-left: auto;
-margin-right: auto;
-}
