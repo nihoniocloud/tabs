@@ -93,7 +93,7 @@ border-radius: 10px;
 border-color: #555555;
 background-color: #333333;
 padding: 2px 2px;
-display: block;
+display: inline-block;
 animation: fadeIn 2s;
 text-align: center;
 }
@@ -103,5 +103,4 @@ font-size: 50px;
 font-family: "Arial";
 color: white;
 animation: fadeIn 2s;
-vertical-align: bottom;
 }
