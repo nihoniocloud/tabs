@@ -7,6 +7,7 @@ p{
 font-family: "Arial";
 color: grey;
 font-size: 20px;
+display: inline-block;
 }
 
 @keyframes fadeIn {
@@ -17,6 +18,7 @@ font-size: 20px;
 .fade-in-text {
   font-family : "Arial";
   animation : fadeIn 2s;
+  display: inline-block;
 }
 
 .button {
@@ -28,7 +30,7 @@ text-align: center;
 font-family: "Arial";
 font-size: 15px;
 height: 40px;
-width: 400px;
+width: 200px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
 display: inline-block;
@@ -58,4 +60,6 @@ h1 {
 font-size: 25px;
 font-family: "Arial";
 color: white;
+display: inline-block;
+animation: fadeIn 2s;
 }
