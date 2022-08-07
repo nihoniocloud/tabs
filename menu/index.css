@@ -26,9 +26,9 @@ border: none;
 border-radius: 5px;
 text-align: center;
 font-family: "Arial";
-font-size: 20px;
-height: 40px;
-width: 150px;
+font-size: 40px;
+height: 60px;
+width: 250px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
 }
