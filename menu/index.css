@@ -96,7 +96,6 @@ padding: 2px 2px;
 display: block;
 animation: fadeIn 2s;
 text-align: center;
-position: fixed;
 }
 
 h4 {
@@ -105,5 +104,8 @@ font-family: "Arial";
 color: white;
 animation: fadeIn 2s;
 display: block;
-position: fixed;
+}
+
+img {
+float: left;
 }
