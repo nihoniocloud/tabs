@@ -45,6 +45,11 @@ display: inline-block;
   display: inline-block;
   animation: fadeIn 2s;
   vertical-align: middle;
+  border-width: 2px;
+  border-right-width: 40px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: grey;
 }
 
 .text {
@@ -54,14 +59,6 @@ display: inline-block;
   color: white;
   vertical-align: middle;
   animation: fadeIn 2s;
-}
-
-.border {
-  border-width: 2px;
-  border-height: 40px;
-  border-style: solid;
-  border-radius: 5px;
-  border-color: grey;
 }
  
 h1 {
