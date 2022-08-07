@@ -59,9 +59,10 @@ display: inline-block;
 .border {
 border-width: 2px;
 border-style: solid;
-border-radius: 5px;
-border-color: grey;
-padding:20px 5px;
+border-radius: 10px;
+border-color: #333333;
+padding:23px 100px;
+display: block;
 }
 
 h1 {
