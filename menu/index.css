@@ -54,9 +54,9 @@ border-radius: 10px;
 border-color: #2E2E2E;
 background-color: #171717;
 padding: 2px 2px;
-display: inline-block;
+display: block;
 animation: fadeIn 2s;
-text-align: center;
+text-align: left;
 }
 
 h1 {
