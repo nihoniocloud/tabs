@@ -104,6 +104,7 @@ font-family: "Arial";
 color: white;
 animation: fadeIn 2s;
 display: block;
+float: right;
 }
 
 img {
