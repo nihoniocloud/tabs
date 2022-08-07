@@ -1,12 +1,12 @@
 body {
   background-color: #28282B;
   position: absolute;
-  display: block;
+  display: inline-block;
 }
 p{
 font-family: "Arial";
 color: grey;
-font-size: 20px;
+font-size: 15px;
 display: inline-block;
 }
 
@@ -30,7 +30,7 @@ text-align: center;
 font-family: "Arial";
 font-size: 15px;
 height: 40px;
-width: 200px;
+width: 120px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
 display: inline-block;
@@ -57,7 +57,7 @@ display: inline-block;
 }
 
 h1 {
-font-size: 25px;
+font-size: 20px;
 font-family: "Arial";
 color: white;
 display: inline-block;
