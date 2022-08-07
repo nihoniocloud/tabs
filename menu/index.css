@@ -1,14 +1,13 @@
 body {
   background-color: #28282B;
   display: block;
+  position: absolute;
 }
 p{
 font-family: "Arial";
 color: grey;
 font-size: 20px;
 display: inline-block;
-position: absolute;
-
 }
 
 @keyframes fadeIn {
@@ -34,8 +33,7 @@ height: 50px;
 width: 980px;
 transition-duration: 0.2s;
 animation: fadeIn 2s;
-display: inline-block;
-position: absolute;
+display: block;
 }
 
 .button:hover {
@@ -67,7 +65,6 @@ font-family: "Arial";
 color: white;
 display: block;
 animation: fadeIn 2s;
-position: absolute;
 }
 
 .border2 {
