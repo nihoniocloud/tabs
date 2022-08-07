@@ -45,6 +45,7 @@ display: inline-block;
   display: inline-block;
   animation: fadeIn 2s;
   vertical-align: middle;
+  left: 70%;
 }
 
 .text {
@@ -54,6 +55,7 @@ display: inline-block;
   color: white;
   vertical-align: middle;
   animation: fadeIn 2s;
+  text-align: left;
 }
 
 .border {
@@ -61,8 +63,8 @@ border-width: 2px;
 border-style: solid;
 border-radius: 10px;
 border-color: #333333;
+background-color: #000000;
 padding: 22px 200px;
-padding-right: 95%;
 }
 
 h1 {
