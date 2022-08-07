@@ -41,13 +41,6 @@ display: inline-block;
   color: white;
 }
 
-.circular_image {
-  display: inline-block;
-  animation: fadeIn 2s;
-  vertical-align: middle;
-  left: 70%;
-}
-
 .text {
   display: inline-block;
   font-size: 120px;
@@ -55,7 +48,7 @@ display: inline-block;
   color: white;
   vertical-align: middle;
   animation: fadeIn 2s;
-  text-align: left;
+  text-align: center;
 }
 
 .border {
@@ -63,8 +56,9 @@ border-width: 2px;
 border-style: solid;
 border-radius: 10px;
 border-color: #333333;
-background-color: #000000;
+background-color: #555555;
 padding: 22px 200px;
+display: block;
 }
 
 h1 {
