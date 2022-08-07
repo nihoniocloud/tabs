@@ -105,10 +105,12 @@ color: white;
 animation: fadeIn 2s;
 display: block;
 z-index: 100;
+position: absolute;
 top: 20px;
 }
 
 img {
 left: 0;
 top: 0;
+position: absolute;
 }
